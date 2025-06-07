@@ -2,11 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. 
+    p Se fortalece el bienestar físico mediante la promoción de hábitos saludables, el desarrollo psicomotor, la educación nutricional, la evaluación de la condición física y la aplicación de principios de ergonomía e higiene postural, con el fin de fomentar el cuidado de la salud. Se impulsa la adopción de rutinas como una alimentación equilibrada, actividad física regular y descanso adecuado. Además, se brindan herramientas para prevenir riesgos, favorecer el autocuidado y promover entornos más saludables y seguros en la vida cotidiana.
     
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5.bgs.p-4.brad
         figure
           img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
       .col-auto
