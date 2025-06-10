@@ -46,7 +46,18 @@ figcaption
     font-weight: normal !important
 
     background-color: #D2C3DD !important
-
+.slyder-f__btn i 
+    background-color: $color-acento-botones
+    border-radius: 50%;
+    border: none;
+    width: 50px;
+    height: 50px;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #fff !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -57,24 +68,89 @@ figcaption
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
+.bg-fondo
+  &-1
+    background-image: url("../assets/curso/temas/bg/2.svg") !important
+    background-position: bottom
+  &-2
+    background-image: url("../assets/curso/temas/bg/4.svg") !important
+    background-position: bottom
 .bg-color
+  &-white
+    background-color: $white 
   &-1
     color: $color-primario !important
-
+  &-2
+    background-color: #FFEDDC 
+  &-3
+    background-color: #FFC4C4
+  &-4
+    background-color:  #B8EBE7
+  &-5
+    background-color: #FFE1E1
+  &-6
+    background-color: #FFF0F0
+  &-7
+    background-color: #4ECDC4
+  &-8
+    background-color: #FFDBBA
+  &-9
+    color: #994040
 .br
   &-1
     border-radius: 10px !important
+  &-2
+    border-radius: 20px !important
+    width: fit-content !important
+  &-3
+    border-top: 5px #2F7B76 solid
+  &-4::before
+    content: ' ';
+    display: block;
+    width: 90px;
+    height: 0px;
+    border: 4px #fff solid;
+    position: relative;
+    left: 20px;
 
+  &-5
+    border-radius: 15px
+  &-6
+    border-top: 5px #FF6B6B solid
 .ml-cus
   &-1
     margin-left: 30px !important
-      
+  &-2
+    margin-top: 20px    
 .hcard
   &-1
     height: 750px !important
 
-      
+.wc
+  &-25
+    width: 20%     
+.titulo-icono
+  background-color: #CC5656
+  border-radius: 30px
+  width: fit-content
+  position: relative;
+  left: 12px;
+  &-text
+    margin-right: 10px
+    margin-left: 50px;
+    color: $white
+  &-img
+    padding: 0px
+    position: absolute
 
+    &:before
+      position: relative
+      border-bottom-right-radius: 40px
+      @media screen and (max-width: 767px)
+        height: 280%
+    img
+      position: relative
+      max-width: 50px
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
@@ -97,9 +173,15 @@ figcaption
 @media screen and (max-width: $bp-min-md)
   .mb-cus
     margin-bottom: 2em  !important  
-
-  
-
+  .slyder-f__btn i 
+      width: 40px;
+      height: 30px;
+      font-size: 1rem;
+  .bloque-texto-g 
+        padding-top: 40px !important;
+  .br
+    &-4::before
+      border: 0
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
@@ -107,3 +189,32 @@ figcaption
   .banner-principal .tarjeta
     background-image: url("../assets/curso/portada/fondo-banner-principal-mobile.svg")  !important   
 
+  .titulo-icono
+      left: 0px;
+      &-text
+        margin-left: 10px;
+      &-img
+        display: none !important
+  .bloque-texto-g 
+        padding-top: 20px !important;
+  .br
+    &-4::before
+      border: 0
+
+  .ml-cus
+    &-2
+      padding: 20px  0
+
+  .slyder-f__btn i 
+    width: 30px;
+    height: 30px;
+    font-size: 1rem;
+
+  .bg-full-width 
+    margin-inline: -2.3rem;
+
+  .bg-fondo
+    &-2
+      background-image: none !important
+      background-color: $color-acento-contenido !important
+      background-position: bottom
