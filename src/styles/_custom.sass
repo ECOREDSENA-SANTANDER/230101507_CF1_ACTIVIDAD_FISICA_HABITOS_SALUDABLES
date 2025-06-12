@@ -85,6 +85,25 @@ figcaption
   @media (max-width: 1000px)
     padding-right: 2rem
 
+.crd--avatarHorizontal-inverso
+  position: relative
+  padding-left: 1rem
+  & > *
+    position: relative
+  p
+    margin-bottom: 0
+  &::before
+    position: absolute
+    content: ''
+    top: 0
+    left: 0
+    width: calc( 100% - 70px)
+    height: 100%
+    background-color: #FFE1E1
+    border-top: 5px #FF6B6B solid
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
 .crd--first, .crd--last
   &::before
     background-color: #FFE1E1 !important
@@ -99,9 +118,25 @@ figcaption
 .slyder-a__bullets__item--active
     background-color: #3EA49D !important
     border: none !important
+.lista-ul--separador li > i:first-of-type,
+.lista-ul--color li > i:first-of-type
+
+    color: #994040 !important;
+
+.lista-ol--separador li, .lista-ul--separador li 
+    padding-bottom: 10px !important
+    margin-bottom: 10px !important
+
+.lista-ul--color.list-cus:nth-child(even)
+    background-color: #DCF5F3 !important
+
+.tabla-b tr:nth-child(even), .tabla-c tr:nth-child(even) 
+    background-color: #DCF5F3 !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
+
+  
 .p-full-width
   padding: 3rem 2.5rem!important;
 .bg-full-width
@@ -146,9 +181,16 @@ figcaption
     background-color: $color-secundario
   &-11
     background-color: #FFDBBA !important
-
-
-
+  &-12
+    background-color: #2F7B76 !important
+  &-13 
+    background-color: #FF6B6B !important
+  &-14
+    background-color: #908D81 !important
+    width: fit-content !important
+  &-15
+    background-color: #DCF5F3 
+    
 .br
   &-1
     border-radius: 10px !important
@@ -165,7 +207,14 @@ figcaption
     border: 4px #fff solid;
     position: relative;
     left: 20px;
-
+  &-7::before
+    content: ' ';
+    display: block;
+    width: 90px;
+    height: 0px;
+    border: 4px #3EA49D solid;
+    position: relative;
+    left: 20px;
   &-5
     border-radius: 15px
   &-6
@@ -181,7 +230,9 @@ figcaption
   
 .wc
   &-25
-    width: 20%     
+    width: 20% 
+  &-3
+    width: 30%  !important
 
 .pc
   &-1
@@ -189,6 +240,10 @@ figcaption
   &-2
     padding-right: 1.5rem !important;
     padding-left: 1.5rem !important;
+  &-3
+    padding: 2rem 1.5rem !important;
+  &-4
+    padding: 1.5rem
 .titulo-icono
   background-color: #CC5656
   border-radius: 30px
@@ -242,6 +297,21 @@ figcaption
   .br
     &-4::before
       border: 0
+  .crd--avatarHorizontal
+    padding: 1rem !important
+    &::before
+      width: 100%
+      height: 100%
+
+  .crd--avatarHorizontal-inverso
+    padding: 1rem !important
+    &::before
+      width: 100%
+      height: 100%
+  .tarjeta--container > .tarjeta:last-child,
+  .tarjeta--container > .tarjeta:first-child
+    height: 220px !important
+
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
@@ -284,3 +354,26 @@ figcaption
     &-2
       padding-right: 0rem !important;
       padding-left: 0rem !important;
+    &-3
+      padding: 0.5rem !important;
+    &-4
+      padding: 1.5rem
+
+  .tarjeta--container > .tarjeta 
+    border-radius: 20px;
+
+  .wc
+    &-3
+      width: 30%  !important
+
+  .crd--avatarHorizontal
+    padding: 1rem !important
+    &::before
+      width: 100%
+      height: 100%
+
+  .crd--avatarHorizontal-inverso
+    padding: 1rem !important
+    &::before
+      width: 100%
+      height: 100%
