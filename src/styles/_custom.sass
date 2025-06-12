@@ -58,6 +58,38 @@ figcaption
     justify-content: center;
     cursor: pointer;
     color: #fff !important
+.tarjeta--boton.color-secundario:active, .tarjeta--boton.color-secundario:focus, .tarjeta--boton.color-secundario:hover 
+    background-color: #FFDBBA !important;
+.tarjeta--boton.color-secundario
+    background-color: #FFC4C4 !important;
+.bloque-texto-f.color-acento-botones:before 
+    background-color: #B8EBE7 !important
+.bloque-texto-f__comillas i 
+    color: #2F7B76
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 1rem
+  & > *
+    position: relative
+  p
+    margin-bottom: 0
+  &::before
+    position: absolute
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 50px)
+    height: 100%
+    background-color: #FFE1E1
+    border-top: 5px #FF6B6B solid
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last
+  &::before
+    background-color: #FFE1E1 !important
+    border-top: 5px #FF6B6B solid
+
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -96,6 +128,8 @@ figcaption
     background-color: #FFDBBA
   &-9
     color: #994040
+  &-10
+    background-color: $color-secundario
 .br
   &-1
     border-radius: 10px !important
@@ -125,10 +159,14 @@ figcaption
 .hcard
   &-1
     height: 750px !important
-
+  
 .wc
   &-25
     width: 20%     
+
+.pc
+  &-1
+    padding: 3rem !important;
 .titulo-icono
   background-color: #CC5656
   border-radius: 30px
@@ -218,3 +256,6 @@ figcaption
       background-image: none !important
       background-color: $color-acento-contenido !important
       background-position: bottom
+  .pc
+    &-1
+      padding: 1rem !important;
