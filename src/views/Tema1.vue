@@ -52,7 +52,7 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/curso/temas/bg/1.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.px-0.py-2 Las habilidades psicomotrices se clasifican principalmente en
+          h3.mb-0.titulo-icono-text.px-0.py-2 Las habilidades psicomotrices se clasifican principalmente en:
       
       .row.justify-content-center.align-items-center.mb-0.bg-color-5.px-5.py-4(data-aos="fade-left")
         .col-sm-12.col-lg-8

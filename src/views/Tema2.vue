@@ -103,7 +103,7 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-8
           figure.mb-0 
-            img(src='@/assets/curso/temas/t2/10.svg', alt='Distribución del gasto energético: 70 % metabolismo basal, 20 % actividad muscular y 10 % digestión, con ilustración de niños comiendo')
+            img(src='@/assets/curso/temas/t2/10.svg', alt='Distribución del gasto energético: 70 % metabolismo basal, 20 % actividad muscular y 10 % digestión, con ilustración de niños comiendo.')
 
 
 

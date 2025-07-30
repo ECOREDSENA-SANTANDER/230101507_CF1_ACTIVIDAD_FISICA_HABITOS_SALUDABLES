@@ -36,7 +36,7 @@
                 .col-sm-12.col-lg-8
                   h4.mb-5 Alimentación saludable
                   p Una nutrición adecuada permite que el cuerpo funcione de manera óptima, incluir frutas, verduras, proteínas magras, legumbres, cereales integrales y grasas saludables proporciona energía, mejora la concentración, fortalece el sistema inmune y previene enfermedades como la anemia, la obesidad, la hipertensión o la diabetes.
-                  p.mb-0 Ejemplo: reemplazar las gaseosas por agua natural o jugos sin azúcar; llevar frutas al colegio como merienda en vez de snacks ultraprocesados.
+                  p.mb-0 Ejemplo: reemplazar las gaseosas por agua natural o jugos sin azúcar; llevar frutas al colegio como merienda en vez de #[i snacks] ultraprocesados.
  
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t3/3.png', alt='')
@@ -64,7 +64,7 @@
                 .col-sm-12.col-lg-8
                   h4.mb-5 Descanso reparador
                   p.mb-0 Dormir entre 7 y 9 horas diarias permite al cuerpo recuperarse, asimilar lo aprendido durante el día, regular emociones y mantener el sistema inmune fuerte. El sueño es tan importante como la alimentación o el ejercicio.
-                  p.mb-0Ejemplo: evitar el uso de pantallas (celular, TV, computador) al menos 30 minutos antes de dormir para mejorar la calidad del sueño.
+                  p.mb-0 Ejemplo: evitar el uso de pantallas (celular, TV, computador) al menos 30 minutos antes de dormir para mejorar la calidad del sueño.
 
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t3/6.png', alt='')
@@ -94,7 +94,7 @@
                 .col-sm-12.col-lg-8
                   h4.mb-5 Relaciones sanas y entornos positivos
                   p Las amistades, el respeto por los demás, la comunicación asertiva y el buen trato fortalecen la salud social, estar rodeado de personas que nos valoran, escuchar y ser escuchados, y vivir en un entorno libre de violencia son factores clave para crecer en armonía.
-                  p.mb-0 Ejemplo: evitar el bullying, practicar la empatía y colaborar en las tareas escolares en equipo.
+                  p.mb-0 Ejemplo: evitar el #[i bullying], practicar la empatía y colaborar en las tareas escolares en equipo.
 
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t3/9.png', alt='')

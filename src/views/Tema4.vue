@@ -131,7 +131,7 @@
           img(src='@/assets/curso/temas/bg/1.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Seguimiento y análisis
-
+      p.mb-5 El verdadero valor de la ficha antropométrica radica en su seguimiento en el tiempo. Comparar registros en diferentes momentos permite evaluar el impacto de los cambios en el estilo de vida, la adherencia a programas de acondicionamiento físico o el progreso en tratamientos nutricionales. Además, facilita la toma de decisiones basadas en evidencia sobre ajustes en dieta, ejercicio o intervenciones médicas. 
       .tarjeta.bg-fondo-2.p-3.mb-5(data-aos="fade-left")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
@@ -354,7 +354,7 @@
                   td Tiempo en segundos
                 tr
                   td Flexibilidad
-                  td Test de Wells (sit and reach)
+                  td Test de #[i Wells (sit and reach)]
                   td Centímetros alcanzados
                 tr
                   td Agilidad

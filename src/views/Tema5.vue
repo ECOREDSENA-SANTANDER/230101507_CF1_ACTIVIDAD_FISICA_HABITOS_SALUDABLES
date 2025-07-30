@@ -21,7 +21,7 @@
         )
         .bloque-texto-g__texto.p-4.d-flex.flex-column
           p.mb-3 La ergonomía es una disciplina científica que busca adaptar los entornos, herramientas, tareas y organizaciones a las características del ser humano, con el fin de optimizar la seguridad, el confort, la eficiencia y el bienestar integral del trabajador. Su enfoque interdisciplinario integra conocimientos de medicina, biomecánica, psicología, ingeniería, fisiología, sociología y diseño industrial.
-          p.mb-0 Según la Asociación Internacional de Ergonomía (IEA), esta disciplina se ocupa de la comprensión de las interacciones entre las personas y los elementos de un sistema, y aplica principios y métodos de diseño para mejorar el rendimiento del sistema y el bienestar humano.
+          p.mb-0 Según la #[i International Ergonomics Association] (IEA), esta disciplina se ocupa de la comprensión de las interacciones entre las personas y los elementos de un sistema, y aplica principios y métodos de diseño para mejorar el rendimiento del sistema y el bienestar humano.
 
       
       .tarjeta.bg-fondo-2.p-3.mb-5(data-aos="fade-left")
@@ -146,7 +146,7 @@
               .row.align-items-end.justify-content-start
                 .col-lg-3.mb-4.d-none.d-lg-block
                   img.img-a.img-t(src='@/assets/curso/temas/t5/13.svg')
-              p.mb-0 En posición sentada, se debe mantener el tronco erguido, los codos a 90°, los pies apoyados, y la pantalla a la altura de los ojos.
+              p.mb-0 En posición sentada, se debe mantener el tronco erguido, los codos a 90 °, los pies apoyados, y la pantalla a la altura de los ojos.
         .col-md.tarjeta.bg-color-3.p-4.p-md-4.p-lg-5
           .row.justify-content-center.mb-1
             .col-12
