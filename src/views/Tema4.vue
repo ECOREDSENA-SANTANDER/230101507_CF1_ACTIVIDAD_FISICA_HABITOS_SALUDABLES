@@ -328,6 +328,8 @@
 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-10
+          .titulo-sexto.color-primario(data-aos="fade-left")
+              p.mb-0 #[b Tabla 1.] Ejemplo de batería básica de pruebas físicas.
           .tabla-b.color-acento-contenido.mb-5
             table(alt="Tabla que presenta una batería básica de pruebas físicas para evaluar diferentes capacidades como resistencia, fuerza, velocidad, flexibilidad y agilidad, indicando una prueba recomendada y su respectivo indicador de medición.")
               thead.bg-color-7
