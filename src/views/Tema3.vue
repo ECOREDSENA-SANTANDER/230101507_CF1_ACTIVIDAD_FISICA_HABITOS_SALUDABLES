@@ -142,7 +142,7 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
-                p.mb-0.bg-color-9 Alimentación y hábitos saludables
+                p.mb-0.bg-color-9 Alimentación y vida saludables
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Alimentacion_y_habitos_saludables.pdf')" target="_blank")
                   span Descargar

@@ -14,7 +14,7 @@
           p.mb-0 La psicomotricidad surge como un enfoque integrador que reconoce la estrecha relación entre el cuerpo, el pensamiento, las emociones y el entorno, más allá del simple desarrollo motor, esta disciplina permite comprender cómo el movimiento corporal refleja y favorece los procesos cognitivos, afectivos y sociales del ser humano. Su estudio resulta clave en contextos educativos, preventivos y terapéuticos, ya que facilita el desarrollo integral de la persona desde una perspectiva holística y significativa.
       
       .bg-color-2.br-2.mb-4(data-aos="fade-left")
-        h3.px-3.py-1 Definición de Psicomotricidad
+        h3.px-3.py-1 Definición de psicomotricidad
       
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-5.mb-cus
@@ -39,7 +39,7 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-8
           figure.mb-0 
-            img(src='@/assets/curso/temas/t1/4.svg', alt='Familia ejercitándose en casa con diferentes actividades físicas como bicicleta estática, pesas y juegos con pelota.')
+            img(src='@/assets/curso/temas/t1/4.svg', alt='Familia ejercitándose en casa con diferentes actividades físicas como bicicleta estática y pesas.')
 
       .row.justify-content-center.mb-5.bg-color-4.br-3.align-items-center(data-aos="fade-left")
         .col-sm-12.col-lg-1.d-none.d-lg-block

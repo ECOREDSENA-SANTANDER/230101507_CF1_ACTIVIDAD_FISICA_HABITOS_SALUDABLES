@@ -146,7 +146,7 @@
               .row.align-items-end.justify-content-start
                 .col-lg-3.mb-4.d-none.d-lg-block
                   img.img-a.img-t(src='@/assets/curso/temas/t5/13.svg')
-              p.mb-0 En posición sentada, se debe mantener el tronco erguido, los codos a 90 °, los pies apoyados, y la pantalla a la altura de los ojos.
+              p.mb-0 En posición sentada, se debe mantener el tronco erguido, los codos a 90°, los pies apoyados, y la pantalla a la altura de los ojos.
         .col-md.tarjeta.bg-color-3.p-4.p-md-4.p-lg-5
           .row.justify-content-center.mb-1
             .col-12

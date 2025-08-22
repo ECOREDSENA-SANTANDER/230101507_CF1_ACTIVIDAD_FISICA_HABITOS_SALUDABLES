@@ -140,7 +140,7 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
-                p.mb-0.bg-color-9 Ficha Antropométrica
+                p.mb-0.bg-color-9 Ficha antropométrica
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_6_Ficha_antropometrica.pdf')" target="_blank")
                   span Descargar
@@ -356,7 +356,7 @@
                   td Tiempo en segundos
                 tr
                   td Flexibilidad
-                  td Test de #[i Wells (sit and reach)]
+                  td Test de  Wells (#[i sit and reach])
                   td Centímetros alcanzados
                 tr
                   td Agilidad
@@ -371,7 +371,7 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
-                p.mb-0.bg-color-9 Pruebas de tests de valoración de la condición física
+                p.mb-0.bg-color-9 Pruebas de (tests) de valoración de la condición física
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_5_Pruebas_tests_de_valoracion_de_la_condicion_fisica.pdf')" target="_blank")
                   span Descargar

@@ -140,8 +140,8 @@ export default {
   complementario: [
     {
       tema: 'Adecuación física para la vida.',
-      referencia: 'Mindeporte. (s. f.). Ministerio del Deporte.',
-      tipo: 'Página web institucional informativa.',
+      referencia: 'Ministerio del Deporte. (2025). Actividad Física.',
+      tipo: 'Articulo',
       link:
         'https://www.mindeporte.gov.co/mindeporte/quienes-somos/dependencias/direccion-fomento-desarrollo/actividad-fisica-3',
     },
@@ -149,7 +149,7 @@ export default {
       tema: 'Hábitos saludables.',
       referencia:
         'Ministerio de Salud y Protección Social. (s.f.). Actividad física.',
-      tipo: 'Página web institucional informativa.',
+      tipo: 'Articulo',
       link:
         'https://www.minsalud.gov.co/salud/Paginas/Actividad-F%C3%ADsica.aspx',
     },
@@ -227,23 +227,23 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Alimentación y Vida Saludable. (s. f.). calameo.com.',
+      referencia: 'Alimentación y Vida Saludable. (s.f). Calameo.',
       link: 'https://www.calameo.com/read/0058856274f6fc76ba867',
     },
     {
       referencia:
-        'Vieyra, M. (2017). PRUEBAS (TESTS) DE VALORACIÓN DE LA CONDICIÓN FISICA.',
+        'Vieyra, M. (2017). PRUEBAS (TESTS) DE VALORACION DE LA CONDICION FISICA.',
       link:
         'https://www.academia.edu/31039110/PRUEBAS_TESTS_DE_VALORACION_DE_LA_CONDICION_FISICA',
     },
     {
       referencia:
-        '¿Qué es la ergonomia? - Asociación Española de Ergonomía. (s. f.).',
+        'Asociación Española de Ergonomía. (s.f).¿Qué es la ergonomía?.',
       link: 'http://www.ergonomos.es/ergonomia.php',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s.f.). Alimentación saludable.',
+        'Ministerio de Salud y Protección Social. (s.f.). Decálogo de una Alimentación saludable.',
       link:
         'https://www.minsalud.gov.co/salud/Paginas/alimentacion-saludable.aspx',
     },
@@ -314,7 +314,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

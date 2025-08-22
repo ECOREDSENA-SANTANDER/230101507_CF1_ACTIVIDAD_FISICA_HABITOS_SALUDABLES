@@ -39,7 +39,7 @@
         .col-sm-12.col-lg-8
           figure.mb-0 
             img(src='@/assets/curso/temas/t2/5.svg', alt='Pirámide alimenticia con porcentajes sugeridos de consumo, desde cereales en la base (30 %) hasta dulces en la cima (10 %).')
-      
+            figcaption Fuente: SENA
       
       .tarjeta.bg-fondo-2.p-3.mb-5(data-aos="fade-left")
         .row.justify-content-around.align-items-center
@@ -104,7 +104,7 @@
         .col-sm-12.col-lg-8
           figure.mb-0 
             img(src='@/assets/curso/temas/t2/10.svg', alt='Distribución del gasto energético: 70 % metabolismo basal, 20 % actividad muscular y 10 % digestión, con ilustración de niños comiendo.')
-
+            figcaption Fuente: SENA
 
 
       .row.justify-content-center.mb-5(data-aos="fade-left")
@@ -124,7 +124,7 @@
           i.fas.fa-quote-right
         h4.text-regular.bloque-texto-f__texto Una dieta equilibrada se basa en mantener un balance entre la ingesta calórica y el gasto energético diario, lo cual permite conservar un peso corporal saludable. Este equilibrio se logra mediante un aporte adecuado de los macronutrientes: carbohidratos, proteínas y grasas, cada uno con funciones esenciales en el organismo.
         .bloque-texto-f__autor.mb-3
-          h3.mb-4 - Iñárritu, s.f.
+          h3.mb-4 - Iñárritu, (s.f.)
 
 
 
@@ -175,45 +175,44 @@
           p.mb-0 A continuación, se presentan diferentes tablas con ejemplos de alimentos agrupados por categorías (legumbres, frutas, verduras, carnes, pescados, bebidas, aperitivos y otros productos varios), junto con su preparación y contenido calórico, lo cual permite tomar decisiones informadas sobre la dieta diaria y fomentar hábitos de vida más saludables.
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           p.mb-0 #[b Figura 4.] Contenido calórico de alimentos legumbres y frutas
-      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-sm-12.col-lg-5.mb-cus
-          figure.mb-0 
-            img(src='@/assets/curso/temas/t2/17.svg', alt='Tabla comparativa de calorías entre diferentes legumbres cocidas y frutas frescas.')
-        .col-sm-12.col-lg-5
-          figure.mb-0 
-            img(src='@/assets/curso/temas/t2/18.svg', alt='Tabla comparativa de calorías entre diferentes legumbres cocidas y frutas frescas.')
-
-      .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+      .bg-color-18.py-3(data-aos="fade-left")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-sm-12.col-lg-12.px-5
+            figure.mb-0 
+              img(src='@/assets/curso/temas/t2/17.svg', alt='Tabla comparativa de calorías entre diferentes legumbres cocidas y frutas frescas.')
+      figcaption.m-0.mb-5 Fuente: SENA
+      .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 5.] Contenido calórico de alimentos verduras y carnes
-      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-sm-12.col-lg-5.mb-cus
-          figure.mb-0 
-            img(src='@/assets/curso/temas/t2/19.svg', alt='Tabla de calorías de verduras según su preparación y sección de carnes con datos erróneos repetidos de frutas frescas.')
-        .col-sm-12.col-lg-5
-          figure.mb-0 
-            img(src='@/assets/curso/temas/t2/20.svg', alt='Tabla de calorías de verduras según su preparación y sección de carnes con datos erróneos repetidos de frutas frescas.')
+      .bg-color-6.pt-4(data-aos="fade-left")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-sm-12.col-lg-12.px-5
+            figure.mb-0 
+              img(src='@/assets/curso/temas/t2/19.svg', alt='Tabla de calorías de verduras según su preparación y sección de carnes con su preparación.')
+          
+      figcaption.m-0.mb-5 Fuente: SENA
 
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
             p.mb-0 #[b Figura 6.] Contenido de alimentos y bebidas  
-      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-sm-12.col-lg-5.mb-cus
-          figure.mb-0 
-            img(src='@/assets/curso/temas/t2/21.svg', alt='Tabla de calorías de distintos tipos de pescados según su preparación y bebidas alcohólicas con sus respectivos aportes calóricos.')
-        .col-sm-12.col-lg-5
-          figure.mb-0 
-            img(src='@/assets/curso/temas/t2/22.svg', alt='Tabla de calorías de distintos tipos de pescados según su preparación y bebidas alcohólicas con sus respectivos aportes calóricos.')
-
+      .bg-color-19.pt-4(data-aos="fade-left")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-sm-12.col-lg-12.px-5.pb-4
+            figure.mb-0 
+              img(src='@/assets/curso/temas/t2/21.svg', alt='Tabla de calorías de distintos tipos de pescados según su preparación y bebidas alcohólicas con sus respectivos aportes calóricos.')
+         
+      figcaption.m-0.mb-5 Fuente: SENA
+      
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
             p.mb-0 #[b Figura 7.] Contenido calórico de alimentos aperitivos y varios  
-      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-sm-12.col-lg-5.mb-cus
-          figure.mb-0 
-            img(src='@/assets/curso/temas/t2/23.svg', alt='Tabla de calorías de aperitivos y alimentos varios como raviolis, chocolate, helado y pizza según su preparación.')
-        .col-sm-12.col-lg-5
-          figure.mb-0 
-            img(src='@/assets/curso/temas/t2/24.svg', alt='Tabla de calorías de aperitivos y alimentos varios como raviolis, chocolate, helado y pizza según su preparación.')
-  
+      .bg-color-18.pt-4(data-aos="fade-left")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-sm-12.col-lg-12.px-5.pb-4
+            figure.mb-0 
+              img(src='@/assets/curso/temas/t2/23.svg', alt='Tabla de calorías de aperitivos y alimentos varios como raviolis, chocolate, helado y pizza según su preparación.')
+         
+      figcaption.m-0.mb-5 Fuente: SENA
+      
+
       .tarjeta.bg-fondo-2.p-3.mb-5(data-aos="fade-left")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
@@ -222,7 +221,7 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
-                p.mb-0.bg-color-9 Consumo y gasto calórico
+                p.mb-0.bg-color-9 Alimentación saludable y gasto energético
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_4_Consumo_y_gasto_calorico.pdf')" target="_blank")
                   span Descargar
