@@ -63,35 +63,35 @@
         .col-sm-12.col-lg-6
           ul.lista-ul--separador.mb-0
             li.d-flex
-              i.fas.fa-circle-check.icon-list
+              i.fas.fa-circle.icon-list-2
               p.mb-0 #[b Peso corporal (kg)]
 
             li.d-flex
-              i.fas.fa-circle-check.icon-list
+              i.fas.fa-circle.icon-list-2
               p.mb-0 #[b Estatura (cm)]
 
             li.d-flex
-              i.fas.fa-circle-check.icon-list
+              i.fas.fa-circle.icon-list-2
               p.mb-0 #[b Índice de Masa Corporal (IMC):] permite estimar si el peso es adecuado para la talla.
 
             li.d-flex
-              i.fas.fa-circle-check.icon-list
+              i.fas.fa-circle.icon-list-2
               p.mb-0 #[b Perímetros corporales:] como cintura, cadera, brazo y muslo, útiles para evaluar distribución de masa grasa.
 
             li.d-flex
-              i.fas.fa-circle-check.icon-list
+              i.fas.fa-circle.icon-list-2
               p.mb-0 #[b Pliegues cutáneos:] como tríceps, subescapular y abdominal, utilizados para calcular el porcentaje de grasa corporal.
 
             li.d-flex
-              i.fas.fa-circle-check.icon-list
+              i.fas.fa-circle.icon-list-2
               p.mb-0 #[b Envergadura:] distancia entre las puntas de los dedos con los brazos extendidos, importante en deportes y diseño ergonómico.
 
             li.d-flex
-              i.fas.fa-circle-check.icon-list
+              i.fas.fa-circle.icon-list-2
               p.mb-0 #[b Frecuencia cardíaca en reposo]
 
             li.d-flex
-              i.fas.fa-circle-check.icon-list
+              i.fas.fa-circle.icon-list-2
               p.mb-0 #[b Porcentaje de grasa corporal] (estimado con fórmulas como Durnin-Womersley o con instrumentos como bioimpedancia)
         .col-sm-12.col-lg-6.d-none.d-lg-block
           img(src='@/assets/curso/temas/t4/4.png', alt='')
@@ -371,7 +371,7 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
-                p.mb-0.bg-color-9 Pruebas de (tests) de valoración de la condición física
+                p.mb-0.bg-color-9 Pruebas (tests) de valoración de la condición física
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_5_Pruebas_tests_de_valoracion_de_la_condicion_fisica.pdf')" target="_blank")
                   span Descargar

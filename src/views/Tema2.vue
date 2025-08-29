@@ -39,7 +39,7 @@
         .col-sm-12.col-lg-8
           figure.mb-0 
             img(src='@/assets/curso/temas/t2/5.svg', alt='Pirámide alimenticia con porcentajes sugeridos de consumo, desde cereales en la base (30 %) hasta dulces en la cima (10 %).')
-            figcaption Fuente: SENA
+            
       
       .tarjeta.bg-fondo-2.p-3.mb-5(data-aos="fade-left")
         .row.justify-content-around.align-items-center
@@ -104,7 +104,7 @@
         .col-sm-12.col-lg-8
           figure.mb-0 
             img(src='@/assets/curso/temas/t2/10.svg', alt='Distribución del gasto energético: 70 % metabolismo basal, 20 % actividad muscular y 10 % digestión, con ilustración de niños comiendo.')
-            figcaption Fuente: SENA
+            
 
 
       .row.justify-content-center.mb-5(data-aos="fade-left")
@@ -180,7 +180,7 @@
           .col-sm-12.col-lg-12.px-5
             figure.mb-0 
               img(src='@/assets/curso/temas/t2/17.svg', alt='Tabla comparativa de calorías entre diferentes legumbres cocidas y frutas frescas.')
-      figcaption.m-0.mb-5 Fuente: SENA
+      
       .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 5.] Contenido calórico de alimentos verduras y carnes
       .bg-color-6.pt-4(data-aos="fade-left")
@@ -189,7 +189,7 @@
             figure.mb-0 
               img(src='@/assets/curso/temas/t2/19.svg', alt='Tabla de calorías de verduras según su preparación y sección de carnes con su preparación.')
           
-      figcaption.m-0.mb-5 Fuente: SENA
+      
 
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
@@ -200,7 +200,7 @@
             figure.mb-0 
               img(src='@/assets/curso/temas/t2/21.svg', alt='Tabla de calorías de distintos tipos de pescados según su preparación y bebidas alcohólicas con sus respectivos aportes calóricos.')
          
-      figcaption.m-0.mb-5 Fuente: SENA
+      
       
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
             p.mb-0 #[b Figura 7.] Contenido calórico de alimentos aperitivos y varios  
@@ -210,7 +210,7 @@
             figure.mb-0 
               img(src='@/assets/curso/temas/t2/23.svg', alt='Tabla de calorías de aperitivos y alimentos varios como raviolis, chocolate, helado y pizza según su preparación.')
          
-      figcaption.m-0.mb-5 Fuente: SENA
+      
       
 
       .tarjeta.bg-fondo-2.p-3.mb-5(data-aos="fade-left")
