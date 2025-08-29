@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="715" height="110.914" viewBox="0 0 715 110.914">
+  <g id="Grupo_1107240" data-name="Grupo 1107240" transform="translate(-705 -536.588)">
+    <path id="Polígono_9" data-name="Polígono 9" d="M55.457,0l55.457,88.437H0Z" transform="translate(793.438 536.588) rotate(90)" fill="#994040"/>
+    <path id="Polígono_10" data-name="Polígono 10" d="M55.457,0l55.457,88.437H0Z" transform="translate(1331.563 647.502) rotate(-90)" fill="#994040"/>
+    <g id="Polígono_11" data-name="Polígono 11" transform="translate(835.788 536.588) rotate(90)" fill="none">
+      <path d="M55.457,0l55.457,88.437H0Z" stroke="none"/>
+      <path d="M 55.45702743530273 11.29383087158203 L 10.84456634521484 82.43736267089844 L 100.0694885253906 82.43736267089844 L 55.45702743530273 11.29383087158203 M 55.45702743530273 7.62939453125e-06 L 110.9140472412109 88.43736267089844 L 7.62939453125e-06 88.43736267089844 L 55.45702743530273 7.62939453125e-06 Z" stroke="none" fill="#ff6b6b"/>
+    </g>
+    <g id="Polígono_12" data-name="Polígono 12" transform="translate(1289.212 647.502) rotate(-90)" fill="none">
+      <path d="M55.457,0l55.457,88.437H0Z" stroke="none"/>
+      <path d="M 55.45702743530273 11.29383087158203 L 10.84456634521484 82.43736267089844 L 100.0694885253906 82.43736267089844 L 55.45702743530273 11.29383087158203 M 55.45702743530273 7.62939453125e-06 L 110.9140472412109 88.43736267089844 L 7.62939453125e-06 88.43736267089844 L 55.45702743530273 7.62939453125e-06 Z" stroke="none" fill="#ff6b6b"/>
+    </g>
+    <line id="Línea_668" data-name="Línea 668" x2="312" transform="translate(971.697 563.457)" fill="none" stroke="#994040" stroke-linecap="round" stroke-width="11"/>
+    <line id="Línea_669" data-name="Línea 669" x2="262.59" transform="translate(927.197 592.045)" fill="none" stroke="#ff6b6b" stroke-linecap="round" stroke-width="11"/>
+    <line id="Línea_670" data-name="Línea 670" x2="334" transform="translate(835.788 620.633)" fill="none" stroke="#994040" stroke-linecap="round" stroke-width="11"/>
+  </g>
+</svg>
