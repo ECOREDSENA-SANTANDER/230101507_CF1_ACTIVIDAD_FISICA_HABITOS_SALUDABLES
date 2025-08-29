@@ -173,17 +173,17 @@
         )
         .bloque-texto-g__texto.p-5
           p.mb-0 A continuación, se presentan diferentes tablas con ejemplos de alimentos agrupados por categorías (legumbres, frutas, verduras, carnes, pescados, bebidas, aperitivos y otros productos varios), junto con su preparación y contenido calórico, lo cual permite tomar decisiones informadas sobre la dieta diaria y fomentar hábitos de vida más saludables.
-      .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+      .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-left")
           p.mb-0 #[b Figura 4.] Contenido calórico de alimentos legumbres y frutas
-      .bg-color-18.py-3(data-aos="fade-left")
-        .row.justify-content-center.align-items-center.mb-0
+      .bg-color-18.py-3.mb-5(data-aos="fade-left")
+        .row.justify-content-center.align-items-center.mb-5
           .col-sm-12.col-lg-12.px-5
             figure.mb-0 
               img(src='@/assets/curso/temas/t2/17.svg', alt='Tabla comparativa de calorías entre diferentes legumbres cocidas y frutas frescas.')
       
       .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 5.] Contenido calórico de alimentos verduras y carnes
-      .bg-color-6.pt-4(data-aos="fade-left")
+      .bg-color-6.pt-4.mb-5(data-aos="fade-left")
         .row.justify-content-center.align-items-center.mb-0
           .col-sm-12.col-lg-12.px-5
             figure.mb-0 
@@ -194,7 +194,7 @@
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
             p.mb-0 #[b Figura 6.] Contenido de alimentos y bebidas  
-      .bg-color-19.pt-4(data-aos="fade-left")
+      .bg-color-19.pt-4.mb-5(data-aos="fade-left")
         .row.justify-content-center.align-items-center.mb-0
           .col-sm-12.col-lg-12.px-5.pb-4
             figure.mb-0 
@@ -204,7 +204,7 @@
       
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
             p.mb-0 #[b Figura 7.] Contenido calórico de alimentos aperitivos y varios  
-      .bg-color-18.pt-4(data-aos="fade-left")
+      .bg-color-18.pt-4.mb-5(data-aos="fade-left")
         .row.justify-content-center.align-items-center.mb-0
           .col-sm-12.col-lg-12.px-5.pb-4
             figure.mb-0 

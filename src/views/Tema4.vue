@@ -64,11 +64,11 @@
           ul.lista-ul--separador.mb-0
             li.d-flex
               i.fas.fa-circle.icon-list-2
-              p.mb-0 #[b Peso corporal (kg)]
+              p.mb-0 #[b Peso corporal (kg)].
 
             li.d-flex
               i.fas.fa-circle.icon-list-2
-              p.mb-0 #[b Estatura (cm)]
+              p.mb-0 #[b Estatura (cm)].
 
             li.d-flex
               i.fas.fa-circle.icon-list-2
@@ -88,11 +88,11 @@
 
             li.d-flex
               i.fas.fa-circle.icon-list-2
-              p.mb-0 #[b Frecuencia cardíaca en reposo]
+              p.mb-0 #[b Frecuencia cardíaca en reposo].
 
             li.d-flex
               i.fas.fa-circle.icon-list-2
-              p.mb-0 #[b Porcentaje de grasa corporal] (estimado con fórmulas como Durnin-Womersley o con instrumentos como bioimpedancia)
+              p.mb-0 #[b Porcentaje de grasa corporal] (estimado con fórmulas como Durnin-Womersley o con instrumentos como bioimpedancia).
         .col-sm-12.col-lg-6.d-none.d-lg-block
           img(src='@/assets/curso/temas/t4/4.png', alt='')
 
