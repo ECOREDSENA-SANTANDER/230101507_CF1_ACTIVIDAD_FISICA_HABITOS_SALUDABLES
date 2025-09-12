@@ -141,7 +141,7 @@ export default {
     {
       tema: 'Adecuación física para la vida.',
       referencia: 'Ministerio del Deporte. (2025). Actividad Física.',
-      tipo: 'Articulo',
+      tipo: 'Web',
       link:
         'https://www.mindeporte.gov.co/mindeporte/quienes-somos/dependencias/direccion-fomento-desarrollo/actividad-fisica-3',
     },
@@ -149,7 +149,7 @@ export default {
       tema: 'Hábitos saludables.',
       referencia:
         'Ministerio de Salud y Protección Social. (s.f.). Actividad física.',
-      tipo: 'Articulo',
+      tipo: 'Web',
       link:
         'https://www.minsalud.gov.co/salud/Paginas/Actividad-F%C3%ADsica.aspx',
     },
@@ -232,7 +232,7 @@ export default {
     },
     {
       referencia:
-        'Vieyra, M. (2017). PRUEBAS (TESTS) DE VALORACION DE LA CONDICION FISICA.',
+        'Vieyra, M. (2017). PRUEBAS (TESTS) DE VALORACIÓN DE LA CONDICIÓN FÍSICA.',
       link:
         'https://www.academia.edu/31039110/PRUEBAS_TESTS_DE_VALORACION_DE_LA_CONDICION_FISICA',
     },

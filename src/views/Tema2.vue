@@ -51,7 +51,7 @@
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
                 p.mb-0.bg-color-9 La pirámide de la alimentación
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_La_piramide_de_la_alimentacion.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_La_piramide_de_la_alimentacion.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
       p.mb-0(data-aos="fade-left") En el ámbito educativo y comunitario, la pirámide alimentaria sigue siendo un recurso didáctico eficaz para promover estilos de vida saludables, enseñar a combinar adecuadamente los alimentos y fomentar una conciencia crítica frente a la alimentación en contextos de cambio social, económico y cultural.

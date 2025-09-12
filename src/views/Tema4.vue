@@ -334,8 +334,8 @@
             table(alt="Tabla que presenta una batería básica de pruebas físicas para evaluar diferentes capacidades como resistencia, fuerza, velocidad, flexibilidad y agilidad, indicando una prueba recomendada y su respectivo indicador de medición.")
               thead.bg-color-7
                 tr
-                  th.h2 Capacidad Evaluada
-                  th.h2 Prueba Recomendada
+                  th.h2 Capacidad evaluada
+                  th.h2 Prueba recomendada
                   th.h2 Indicador
               tbody
                 tr
@@ -472,7 +472,7 @@
                       img(src='@/assets/curso/temas/t4/26.svg', alt='')
               .bg-color-white.mb-4(data-aos="fade-left")
                 h3.px-3.py-1.text-center Lactantes
-              p.mb-0.text-center 130–140 ppm (pulsaciones por minuto).
+              p.mb-0.text-center 130 – 140 ppm (pulsaciones por minuto).
   
             .tarjeta.bg-color-8.br-5.p-3.p-md-3.p-lg-5
               .row.align-items-center.my-4.justify-content-center.hide-icon-sm.d-none.d-lg-block
@@ -480,7 +480,7 @@
                       img(src='@/assets/curso/temas/t4/27.svg', alt='')
               .bg-color-white.mb-4(data-aos="fade-left")
                 h3.px-3.py-1.text-center Niños pequeños
-              p.mb-0.text-center 90–110 ppm.
+              p.mb-0.text-center 90 – 110 ppm.
 
             .tarjeta.bg-color-8.br-5.p-3.p-md-3.p-lg-5
               .row.align-items-center.my-4.justify-content-center.hide-icon-sm.d-none.d-lg-block
@@ -488,7 +488,7 @@
                       img(src='@/assets/curso/temas/t4/28.svg', alt='')
               .bg-color-white.mb-4(data-aos="fade-left")
                 h3.px-3.py-1.text-center Adolescentes y adultos jóvenes
-              p.mb-0.text-center 70–90 ppm.
+              p.mb-0.text-center 70 – 90 ppm.
 
             .tarjeta.bg-color-8.br-5.p-3.p-md-3.p-lg-5
               .row.align-items-center.my-4.justify-content-center.hide-icon-sm.d-none.d-lg-block
@@ -496,7 +496,7 @@
                       img(src='@/assets/curso/temas/t4/29.svg', alt='')
               .bg-color-white.mb-4(data-aos="fade-left")
                 h3.px-3.py-1.text-center Adultos
-              p.mb-0.text-center 60–80 ppm.
+              p.mb-0.text-center 60 – 80 ppm.
 
             .tarjeta.bg-color-8.br-5.p-3.p-md-3.p-lg-5
               .row.align-items-center.my-4.justify-content-center.hide-icon-sm.d-none.d-lg-block
@@ -504,7 +504,7 @@
                       img(src='@/assets/curso/temas/t4/30.svg', alt='')
               .bg-color-white.mb-4(data-aos="fade-left")
                 h3.px-3.py-1.text-center Adultos mayores
-              p.mb-0.text-center 55–70 ppm.
+              p.mb-0.text-center 55 – 70 ppm.
   
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
