@@ -223,7 +223,7 @@
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
                 p.mb-0.bg-color-9 Alimentación saludable y gasto energético
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_4_Consumo_y_gasto_calorico.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Alimentación_saludable_y_gasto_energetico.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
   

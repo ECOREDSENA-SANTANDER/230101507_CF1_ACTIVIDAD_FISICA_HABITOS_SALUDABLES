@@ -142,7 +142,7 @@
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
                 p.mb-0.bg-color-9 Ficha antropométrica
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_6_Ficha_antropometrica.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_5_Ficha_antropometrica.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 
@@ -373,7 +373,7 @@
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
                 p.mb-0.bg-color-9 Pruebas (tests) de valoración de la condición física
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_5_Pruebas_tests_de_valoracion_de_la_condicion_fisica.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_6_Pruebas_tests_de_valoracion_de_la_condicion_fisica.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 
